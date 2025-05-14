@@ -33,6 +33,7 @@ ALLOWED_HOSTS = config("ALLOWED_HOSTS", default="localhost", cast=lambda x: [s.s
 
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
